@@ -6,11 +6,49 @@ html {
     
         size: blue;  
 
-        background-color: yellow;
+        background-color: white;
+
+        border: 1px solid orange;
 
         border: red;
 
-        font-size: 20px;
+        font-size: 20px;        
+}
 
 
+h1{
+        border: 2px solid black
+}
+
+h2{
+
+        border: 3px dashed blue;
+}  
+
+h3{
+
+        border: 1rem solid blue;
+}
+
+h4{
+
+        border: thick double blue;
+}
+
+h5{
+        border: 2mm ridge blue;
+}
+
+h6{
+        border: 2px dotted;
+}
+
+#borderDifferent{
+
+        border: 2px dashed yellowgreen;
+}
+
+.backgroundGreen{
+
+        background-color: chartreuse;
 }
